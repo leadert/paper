@@ -1,0 +1,1 @@
+type作为embedding，使用RNN构建user preference，不考虑region

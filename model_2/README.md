@@ -1,0 +1,1 @@
+type作为embedding，考虑region，user preference用region prenference通过LSTM得到
